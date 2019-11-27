@@ -1,46 +1,26 @@
-# fundamentals-project
+# About Fundamentals-Project
+This repository contains my submission for Assessment 2019, Fundamentals of Data Analysis course. This assessment consists of my Exploratory Data Analysis of the well known tips dataset using the Python packages, pandas, scikitlearn, seaborn and jupyter. 
 
-## Project Plan
-Estimate 20 Hours
-2 commits per week + 
-	20/30 commits
-	What’s a reasonable size commit
-	Fix all typos and do one commit
+I have created a [Jupyter notebook](https://github.com/pcaulfie/fundamentals-project/blob/master/Fundamentals%20of%20Data%20Analysis.ipynb) to present my work, where I present insights into the dataset.
 
-1.	Create Repository - 30th September - Done
-2.	Description – 18th October
-a.	Create Jupyter Notebook
-b.	Short & sweet description of what is in the dataset
-i.	What are the variables about
-ii.	What do the variables look like
-iii.	What is the average tip, the biggest tip, the smallest tip
-iv.	Is the average tip a typical tip (ie the mode?) or the average of mix of high & low tips
-c.	Use Descriptive Statistics ie summary statistics & plots
-3.	Regression - 5th November
-a.	Prove that there is a relationship between the total bill and the tip size, using data analytics tech
-b.	Be able to predict what tip would be given for a set spend, e.g. 1000$ -
-c.	Explain what regression is / what it is used for ….
+## Overview of My Project
+There are five distinct tasks carried out in my Jupyter notebook.
 
-4.	Analyse – 29th November
-Analyse the Relationships BETWEEN THE VARIABLEs
-a.	E.g Analyse relationship between pairs/triples of variables 
-i.	Be careful that while some relationships appear to have relationship ie when one goes up the other goes down etc, in fact this may not be 
-b.	Or select a subset and analyse those
-c.	Looking for insights
-i.	Pick out something interesting & show Ian that
-
-Summary
-1.	Put introduction at start, conclusion at end and join them together in the middle.
- 
-# About ProgDA-Assignment
-This repository contains my submission for Assignment 2019 for Programming for Data Analysis course. The assignment concerns the numpy.random package in Python 3. I have created a [Jupyter notebook](https://github.com/pcaulfie/fundamentals-project/blob/master/Fundamentals%20of%20Data%20Analysis.ipynb) explaining the use of the package, including detailed explanations of six of the distributions provided for in the package.
-
-## Problem statement
-There are four distinct tasks carried out in my Jupyter notebook.
-1. Explain the overall purpose of the package.
-2. Explain the use of the “Simple random data” and  “Permutations” functions.
-4. Explain the use and purpose of at least five “Distributions” functions.
-5. Explain the use of seeds in generating pseudo-random numbers.
+1. Data Collection
+* Brief give a description of what is in the dataset, * I outline the steps taken to loading the dataset and I describe what the variables look like.
+2. Data Cleaning
+* I check for missing data amd take a closer look at the dataset to see if there was anything unusual.
+3. Data Preprocessing
+* I outlines the steps taken to prepare the data for analysis.
+4. Exploratory Data Analysis (EDA)
+* I conducted two methods of EDA; descriptive statistics and data visualization. 
+* Descriptive Statistics - average tip, the biggest tip, the smallest tip. I discuss whether the average tip is a typical value or not. I investigate any interesting results, by exploring subsets of the data.
+* Data Visualization - I employed a number of data visualization techniques, ranging from simple 1 dimensional plots such as histograms, 2 dimensional scatter plot up to 3 dimensional scatterplots & bubble charts to analyse univariate and multivariate relationships
+5. Linear Regression
+* I explain what regression is and what it is used for.
+* I demonstrate that that there is a relationship between the total bill and the tip size using Simple Linear Regression. 
+* I predict what tip would be given for a set spend, e.g. 1000$ -
+6. Conclusions
 
 ## Installation
 
