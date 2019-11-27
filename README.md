@@ -7,7 +7,7 @@ I have created a [Jupyter notebook](https://github.com/pcaulfie/fundamentals-pro
 There are five distinct tasks carried out in my Jupyter notebook.
 
 1. Data Collection
-* Brief give a description of what is in the dataset, * I outline the steps taken to loading the dataset and I describe what the variables look like.
+* Brief give a description of what is in the dataset, I outline the steps taken to loading the dataset and I describe what the variables look like.
 2. Data Cleaning
 * I check for missing data amd take a closer look at the dataset to see if there was anything unusual.
 3. Data Preprocessing
