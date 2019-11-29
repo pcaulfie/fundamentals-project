@@ -36,7 +36,7 @@ There are five distinct tasks carried out in my Jupyter notebook.
 
 ### Clone
 
-- Clone this repository to your local machine use the following link `https://github.com/pcaulfie/fundamentals-project.git`
+- Clone this repository to your local machine use the following link [https://github.com/pcaulfie/fundamentals-project.git](https://github.com/pcaulfie/fundamentals-project.git)
 
 ## License
 
@@ -47,4 +47,4 @@ There are five distinct tasks carried out in my Jupyter notebook.
 
 Paul Caulfield -  paul.caulfield@se.com & g00376342@gmit.ie
 
-Project Link: [https://github.com/pcaulfie/ProgDA-Assignment](https://github.com/pcaulfie/fundamentals-project)
+Project Link: [https://github.com/pcaulfie/fundamentals-project](https://github.com/pcaulfie/fundamentals-project)
